@@ -6,4 +6,4 @@
 
 
 ### エディア <3935> の四半期報告書　　営業利益
-<img width="600"  src="https://user-images.githubusercontent.com/6063541/232207817-a8092cea-bdc5-43c0-8e71-a6092204d5c1.png">
+<img width="600"  src="https://user-images.githubusercontent.com/6063541/232207985-8bf8228b-8b6c-4b65-83e5-07318c0d38c8.png">
